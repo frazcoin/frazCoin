@@ -34,12 +34,10 @@ make
 See [docs](https://github.com/frazcoin/frazCoin/tree/master/doc) for flags, deps and more info.
 
 
-Compiled Binaries Instructions
+Compiled Binaries
 ------------------------------
 
 Precompiled Windows, Linux and Mac binaries available at http://frazcoin.org/
-
-See instructions below.
 
 
 License
